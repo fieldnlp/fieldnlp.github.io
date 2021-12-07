@@ -1,3 +1,5 @@
+our talk today: [zoom](https://zoom.us/j/91439654276?pwd=ZTBYWnlaZlZWcFhmanpaWUhqa1Bodz09), [slides](https://w.ip)
+
 
 * [зум \| zoom](https://us04web.zoom.us/j/77728672355?pwd=R3pyRzluMkZPZHRCL0FINXYyMDgydz09)
 * [люди \| people](https://docs.google.com/spreadsheets/d/1pR2K_PWJXRUg0o1_-WYtp1NSiFk8ZwTpx6TMQYyk4sw)
