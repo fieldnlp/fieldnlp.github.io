@@ -1,4 +1,4 @@
-our talk today: [zoom](https://zoom.us/j/91439654276?pwd=ZTBYWnlaZlZWcFhmanpaWUhqa1Bodz09), [slides](https://w.ip)
+our talk today: [zoom](https://zoom.us/j/91439654276?pwd=ZTBYWnlaZlZWcFhmanpaWUhqa1Bodz09), [slides](https://docs.google.com/presentation/d/e/2PACX-1vRonyotoToxP6d5Uyb_dmiTXouPyDKPhHVOliml4kYAjk7qU9Jb7E9xpwZExjK0-lUHJioJ0yAvuovQ/pub?start=false&loop=false&delayms=3000)
 
 
 * [зум \| zoom](https://us04web.zoom.us/j/77728672355?pwd=R3pyRzluMkZPZHRCL0FINXYyMDgydz09)
