@@ -14,5 +14,5 @@
 ### Talks
 #### 7 dec 2021
 What is Field NLP and Where to Find it in School of Linguistics
-[video](hhttps://drive.google.com/file/d/1ryd98Md3c3DEJ12soV2vsVw0tP_riIsB/view?usp=sharing),
+[video](https://drive.google.com/file/d/1ryd98Md3c3DEJ12soV2vsVw0tP_riIsB/view?usp=sharing),
 [slides](https://docs.google.com/presentation/d/e/2PACX-1vRonyotoToxP6d5Uyb_dmiTXouPyDKPhHVOliml4kYAjk7qU9Jb7E9xpwZExjK0-lUHJioJ0yAvuovQ/pub?start=false&loop=false&delayms=3000)
